@@ -1,1 +1,2 @@
 this is test.txt
+git config -global color.ui true
